@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Meditations",
+    "author": "Marcus Aurelius",
+    "chapters": [
+      {
+        "title": "Book 1",
+        "simplified_text": "Be grateful. Practice humility. Respect others.",
+        "image_prompt": "A Roman emperor thinking alone in a palace courtyard."
+      }
+    ]
+  }
+]
